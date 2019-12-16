@@ -1,0 +1,8 @@
+Processing by HelloWordController#index as HTML
+  Rendering hello_word/index.html.erb within layouts/application
+  Rendered hello_word/index.html.erb within layouts/application (Duration: 2.4ms | Allocations: 949)
+Completed 500 Internal Server Error in 11ms (MongoDB: 0.0ms | Allocations: 3823)
+Processing by HelloWordController#index as HTML
+  Rendering hello_word/index.html.erb within layouts/application
+  Rendered hello_word/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 949)
+Completed 500 Internal Server Error in 7ms (MongoDB: 0.0ms | Allocations: 3823)
